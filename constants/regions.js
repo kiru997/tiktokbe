@@ -6,7 +6,7 @@ module.exports = {
         region: "HK",
         sys_region: "HK",
         carrier_region: "HK",
-        // account_region: "MY",
+        account_region: "HK",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 45400
@@ -18,7 +18,7 @@ module.exports = {
         region: "TW",
         sys_region: "TW",
         carrier_region: "TW",
-        // account_region: "MY",
+        account_region: "TW",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 46693
@@ -30,7 +30,7 @@ module.exports = {
         region: "JP",
         sys_region: "JP",
         carrier_region: "JP",
-        // account_region: "MY",
+        account_region: "JP",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 46001
@@ -42,7 +42,7 @@ module.exports = {
         region: "KR",
         sys_region: "KR",
         carrier_region: "KR",
-        // account_region: "MY",
+        account_region: "KR",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 450
@@ -54,7 +54,7 @@ module.exports = {
         region: "US",
         sys_region: "US",
         carrier_region: "US",
-        // account_region: "MY",
+        account_region: "US",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 31001
@@ -66,7 +66,7 @@ module.exports = {
         region: "SG",
         sys_region: "SG",
         carrier_region: "SG",
-        // account_region: "MY",
+        account_region: "SG",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 525
@@ -78,7 +78,7 @@ module.exports = {
         region: "MY",
         sys_region: "MY",
         carrier_region: "MY",
-        // account_region: "MY",
+        account_region: "MY",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 502
@@ -90,7 +90,7 @@ module.exports = {
         region: "AU",
         sys_region: "AU",
         carrier_region: "AU",
-        // account_region: "MY",
+        account_region: "AU",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 505
@@ -102,7 +102,7 @@ module.exports = {
         region: "TH",
         sys_region: "TH",
         carrier_region: "TH",
-        // account_region: "MY",
+        account_region: "TH",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 520
@@ -114,7 +114,7 @@ module.exports = {
         region: "KH",
         sys_region: "KH",
         carrier_region: "KH",
-        // account_region: "MY",
+        account_region: "KH",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 456
@@ -138,7 +138,7 @@ module.exports = {
         region: "QA",
         sys_region: "QA",
         carrier_region: "QA",
-        // account_region: "MY",
+        account_region: "QA",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 427
@@ -150,7 +150,7 @@ module.exports = {
         region: "AE",
         sys_region: "AE",
         carrier_region: "AE",
-        // account_region: "MY",
+        account_region: "AE",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 424
@@ -162,7 +162,7 @@ module.exports = {
         region: "BN",
         sys_region: "BN",
         carrier_region: "BN",
-        // account_region: "MY",
+        account_region: "BN",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 505
@@ -174,7 +174,7 @@ module.exports = {
         region: "LA",
         sys_region: "LA",
         carrier_region: "LA",
-        // account_region: "MY",
+        account_region: "LA",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 457
@@ -186,7 +186,7 @@ module.exports = {
         region: "MN",
         sys_region: "MN",
         carrier_region: "MN",
-        // account_region: "MY",
+        account_region: "MN",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 428
@@ -198,7 +198,7 @@ module.exports = {
         region: "PH",
         sys_region: "PH",
         carrier_region: "PH",
-        // account_region: "MY",
+        account_region: "PH",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 515
@@ -210,7 +210,7 @@ module.exports = {
         region: "ID",
         sys_region: "ID",
         carrier_region: "ID",
-        // account_region: "MY",
+        account_region: "ID",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 510
@@ -222,7 +222,7 @@ module.exports = {
         region: "BH",
         sys_region: "BH",
         carrier_region: "BH",
-        // account_region: "MY",
+        account_region: "BH",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 426
@@ -234,7 +234,7 @@ module.exports = {
         region: "BT",
         sys_region: "BT",
         carrier_region: "BT",
-        // account_region: "MY",
+        account_region: "BT",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 402
@@ -246,7 +246,7 @@ module.exports = {
         region: "KW",
         sys_region: "KW",
         carrier_region: "KW",
-        // account_region: "MY",
+        account_region: "KW",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 419
@@ -258,7 +258,7 @@ module.exports = {
         region: "TD",
         sys_region: "TD",
         carrier_region: "TD",
-        // account_region: "MY",
+        account_region: "TD",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 622
@@ -270,7 +270,7 @@ module.exports = {
         region: "LC",
         sys_region: "LC",
         carrier_region: "LC",
-        // account_region: "MY",
+        account_region: "LC",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 358
@@ -282,7 +282,7 @@ module.exports = {
         region: "PG",
         sys_region: "PG",
         carrier_region: "PG",
-        // account_region: "MY",
+        account_region: "PG",
         // carrier_region_v2: 46001,
         is_my_cn: 0,
         mcc_mnc: 537
